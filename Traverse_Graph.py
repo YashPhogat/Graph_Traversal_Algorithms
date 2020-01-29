@@ -3,7 +3,7 @@ import time
 import heapq
 
 start = time.time()
-filebuff = open("input4_2.txt")
+filebuff = open("input.txt")
 
 # print(filebuff.read(), "\n")
 algoname = filebuff.readline()
